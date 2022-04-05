@@ -1,2 +1,2 @@
-# Basic functions in Computer Vision
+## Basic CV functions
 #### Implemented from scratch without using built-in OpenCV functions
