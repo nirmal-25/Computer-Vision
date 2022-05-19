@@ -8,7 +8,7 @@ Implemented from scratch without using OpenCV functions
 
 *Input Image*
 
-<img src="https://github.com/favicon.ico](https://user-images.githubusercontent.com/51696913/169199246-653eec5e-c299-4161-8e0c-8518a71ec581.png" width="48">
+<img src="https://user-images.githubusercontent.com/51696913/169199246-653eec5e-c299-4161-8e0c-8518a71ec581.png" width="48">
 
 *Gaussian Blurring*
 
