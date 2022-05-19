@@ -5,11 +5,12 @@ Implemented from scratch without using OpenCV functions
 
 
 ### Results
-![Image](https://user-images.githubusercontent.com/51696913/169199246-653eec5e-c299-4161-8e0c-8518a71ec581.png)
 *Image*
+![Image](https://user-images.githubusercontent.com/51696913/169199246-653eec5e-c299-4161-8e0c-8518a71ec581.png)
 
-![Gaussian Blurring](https://user-images.githubusercontent.com/51696913/169199341-0f72660a-0cb4-4f9c-a3c6-6866dacc76eb.png)
 *Gaussian Blurring*
+![Gaussian Blurring](https://user-images.githubusercontent.com/51696913/169199341-0f72660a-0cb4-4f9c-a3c6-6866dacc76eb.png)
+
 
 ![Sobel Filter](https://user-images.githubusercontent.com/51696913/169199387-e94a0596-098a-48e9-96a3-2dd83bdc8e10.png)
 
