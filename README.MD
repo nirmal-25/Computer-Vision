@@ -12,11 +12,16 @@ Implemented from scratch without using OpenCV functions
 
 *Gaussian Blurring*
 
-![Gaussian Blurring](https://user-images.githubusercontent.com/51696913/169199341-0f72660a-0cb4-4f9c-a3c6-6866dacc76eb.png)
+<img src="https://user-images.githubusercontent.com/51696913/169199341-0f72660a-0cb4-4f9c-a3c6-6866dacc76eb.png" width="500">
 
+*Sobel Filter*
 
-![Sobel Filter](https://user-images.githubusercontent.com/51696913/169199387-e94a0596-098a-48e9-96a3-2dd83bdc8e10.png)
+<img src="https://user-images.githubusercontent.com/51696913/169199387-e94a0596-098a-48e9-96a3-2dd83bdc8e10.png" width="500">
 
-![Rotation by 30°](https://user-images.githubusercontent.com/51696913/169199430-48aeb08a-5bba-4e89-8f66-e267923eb989.png)
+*Rotation by 30°*
 
-![Rotation by 60°](https://user-images.githubusercontent.com/51696913/169199467-1c00ffdd-44ff-42ad-ae1a-2bab2b944a7e.png)
+<img src="https://user-images.githubusercontent.com/51696913/169199430-48aeb08a-5bba-4e89-8f66-e267923eb989.png" width="500">
+
+*Rotation by 60°*
+
+<img src="https://user-images.githubusercontent.com/51696913/169199467-1c00ffdd-44ff-42ad-ae1a-2bab2b944a7e.png" width="500">
